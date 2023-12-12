@@ -4,8 +4,6 @@ import (
 	"fmt"
 )
 
-var fields = []string{"A1", "A2", "A3", "B1", "B2", "B3", "C1", "C2", "C3"}
-
 type Fields struct {
 	A1 string
 	B1 string
